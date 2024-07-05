@@ -1,4 +1,4 @@
-# Descriptografar-de-senhas-hash
+# DescriptSenha.py
 Descriptografar de senhas hash
 
 MD4                                                        
