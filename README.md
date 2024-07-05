@@ -1,5 +1,5 @@
 # DescriptSenha.py
-Descriptografar de senhas hash
+DescriptSenha.py
 
 MD4                                                        
 MD5                                             
