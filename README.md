@@ -1,5 +1,6 @@
 # DescriptSenha.py
 Tipos de hash suportados:
+
 MD4
 
 MD5
