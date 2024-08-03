@@ -29,8 +29,12 @@ BLAKE2b-512
 NTLM
 
 Para mais informações, visite o link: https://github.com/LeviHtzo/LeviHtzo
+
 Faça uma doação!
-Vaquinha link: https://www.vakinha.com.br/vaquinha/pensamentos-soltos
+
+Vaquinha link: 
+https://www.vakinha.com.br/vaquinha/pensamentos-soltos
+
 Faça uma doação! Aceitamos também Bitcoin: 1127qjBCvmdTV4otm9ntjiCb1qh9LGoN4q
 
 Python DescriptSenha.py
