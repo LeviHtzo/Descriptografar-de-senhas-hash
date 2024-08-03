@@ -42,5 +42,10 @@ Python DescriptSenha.py
 Instale. pip install tqdm
 
 :) ✓
+Estale o python
 
-termux.     git clone https://github.com/LeviHtzo/Descriptografar-de-senhas-hash
+apt install python
+
+No termux digite.   
+
+git clone https://github.com/LeviHtzo/Descriptografar-de-senhas-hash
