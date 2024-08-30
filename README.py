@@ -1,4 +1,4 @@
-# DescriptSenha.py
+# Descriptografar-de-senhas-hash.py
 Tipos de hash suportados:
 
 MD4
